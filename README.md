@@ -192,12 +192,13 @@ Para suporte técnico ou dúvidas:
 - Verifique a documentação
 - Analise os logs de erro
 - Consulte os comentários no código
+- Fale conosco - canaldev33@gmail.com
 
 ## Versão
 
-**v1.0.0** - Sistema completo com todas as funcionalidades solicitadas
+**v1.0.0** - Sistema completo com todas as funcionalidades.
 
 ---
 
-**Desenvolvido especificamente conforme requisitos do usuário**
+**Desenvolvido por Julio Abreu, especificamente conforme requisitos do usuário**
 
