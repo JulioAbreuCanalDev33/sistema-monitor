@@ -1,5 +1,5 @@
 <?php
-require_once 'config/database.php';
+require_once 'config/Database.php';
 
 class VigilanciaVeicular {
     private $conn;

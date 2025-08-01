@@ -3,7 +3,8 @@ require_once 'includes/functions.php';
 
 class AtendimentosController {
     
-    public function index() {
+    public function index() 
+    {
         $atendimento = new Atendimento();
         $stmt = $atendimento->read();
         $atendimentos = $stmt->fetchAll(PDO::FETCH_ASSOC);

@@ -3,7 +3,7 @@ session_start();
 
 // Autoload das classes
 spl_autoload_register(function ($class_name) {
-    $directories = ['controllers', 'models', 'config', 'includes'];
+    $directories = ['controllers', 'models', 'config/Database.php', 'includes'];
     
     foreach ($directories as $directory) {
         $file = __DIR__ . '/' . $directory . '/' . $class_name . '.php';
